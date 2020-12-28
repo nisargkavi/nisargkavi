@@ -6,7 +6,7 @@
 - 🔭I'm currently working on FiveM Development And BCA Student
 - 🌱I'm currently learning everything🤣
 - 👯I'm looking to Collaborate with Other Developers
-- 🥅2021 Goals : Be A Good Developer And Good Human Being
+- 🥅2021 Goals : Be A Best Developer And Good Human Being
 - ⚡Fun Fact : I Love Music
 
 
