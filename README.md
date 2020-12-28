@@ -1,7 +1,6 @@
 ### Hey There,  I'm Nisarg - aka DrChamp(!ϟϟ!) 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AdnaniDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdnaniDev&screen_name=AdnaniDev)
 
 ## I'm a Developer & Tech Guy 
 - 🔭I'm currently working on FiveM Development And BCA Student
