@@ -36,6 +36,7 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrChamp1&theme=radical&layout=compact)
 
 <details>
   <summary>:zap: Github Stats</summary>
