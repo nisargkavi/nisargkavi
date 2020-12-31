@@ -7,6 +7,7 @@
 - 🌱I'm currently learning everything🤣
 - 👯I'm looking to Collaborate with Other Developers
 - 🥅2021 Goals : Be The Best Developer And Good Human Being
+- 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music
 
 
