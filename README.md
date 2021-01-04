@@ -12,7 +12,8 @@
 
 
 ### Spotify Playing 🎧
-<img src="https://camo.githubusercontent.com/82a7fee1e07808708de3712d79e785b5422ace8d7d417b8e31dd369e70b98c1c/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d3331713268747277716c36683671697174706a346e6369346678336d26636f7665725f696d6167653d66616c7365"/>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21yrcssv3f2y6oogojzz4w3cq)
 
 ### Connect with me:
 
