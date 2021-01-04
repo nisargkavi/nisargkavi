@@ -1,5 +1,5 @@
 ### Hey There,  I'm Nisarg - aka DrChamp(!ϟϟ!) 👋
-
+<br>
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/attachments/795682105153159190/795684479900712980/giphy.gif">
 </p>
