@@ -3,7 +3,7 @@
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/attachments/795682105153159190/795684479900712980/giphy.gif">
 </p>
-<h1 align="center">!ϟϟ!</h1>
+<h1 align="center">Champ</h1>
 
 
 ## I'm a Developer & Tech Guy 
