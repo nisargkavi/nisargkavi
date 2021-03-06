@@ -52,5 +52,5 @@
 </details>
 
 [youtube]:https://www.youtube.com/technicalnisarg
-[instagram]: https://www.instagram.com/nisarg.official/
+#[instagram]: https://www.instagram.com/nisarg.official/
 [gmail]:kavinisarg@gmail.com
