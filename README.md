@@ -7,10 +7,10 @@
 
 
 ## I'm a Developer & Tech Guy 
-- 🔭I'm currently working on FiveM Development And BCA Student
-- 🌱I'm currently learning everything🤣
-- 👯I'm looking to Collaborate with Other Developers
-- 🥅2021 Goals : Be The Best Developer And Good Human Being
+- 🔭I'm Currently Working on FiveM Server Development And BCA Student
+- 🌱I'm Currently Learning New Things xD....
+- 👯I'm Looking to Collaborate with Other Developers
+- 🥅2021 Goals : Be The Best Developer And Good Human Being.
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music
 
