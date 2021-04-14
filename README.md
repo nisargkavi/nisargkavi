@@ -14,11 +14,12 @@
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music
 
-<img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ehurqtcvxk9x5yml2c1tpq2oj?)
+
+<img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Connect with me:
 
