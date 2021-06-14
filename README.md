@@ -24,9 +24,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg"/>][gmail]
-<!--[<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg"/>][instagram]-->
-[<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409936.svg"/>][youtube]
+[<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg"/>][gmail]
+[<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg"/>][instagram]
+[<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409936.svg"/>][youtube]
 
 <br />
 
@@ -54,7 +54,7 @@
 </details>
 
 [youtube]:https://www.youtube.com/technicalnisarg
-<!--[instagram]: https://www.instagram.com/nisarg.official/-->
+[instagram]: https://www.instagram.com/nisarg.official/
 [gmail]:kavinisarg@gmail.com
 
 <p align="center">
