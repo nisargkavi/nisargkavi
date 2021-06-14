@@ -49,7 +49,10 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=DrChamp1&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
+<p align="center">
+  <img align="center" alt="Osmium's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=osmiumop&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Osmium's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=osmiumop&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+</p>
 
 </details>
 
