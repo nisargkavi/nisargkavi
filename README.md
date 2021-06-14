@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Dev-Adnani's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DrChamp1&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
+  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=DrChamp1&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
 
 </details>
 
