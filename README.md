@@ -49,10 +49,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<p align="center">
   <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drchamp1&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
   <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drchamp1&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
-</p>
+
 
 </details>
 
