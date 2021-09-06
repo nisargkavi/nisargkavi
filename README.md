@@ -25,7 +25,7 @@
 
 [<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg"/>][gmail]
 [<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg"/>][instagram]
-[<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409936.svg"/>][youtube]
+[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
 
 <br />
 
