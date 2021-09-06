@@ -14,7 +14,7 @@
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music
 
-<img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="480" height="320" />
+
 
 <!-- ### Spotify Playing 🎧
 
@@ -29,6 +29,7 @@
 
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="480" height="320" />
 
 ### Languages and Tools:
 
