@@ -40,14 +40,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
+  <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drchamp1&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drchamp1&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 
 <img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrChamp1&theme=radical&layout=compact) -->
 
 
-  <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drchamp1&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drchamp1&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 
 
 [youtube]:https://www.youtube.com/technicalnisarg
