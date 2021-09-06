@@ -23,8 +23,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg"/>][gmail]
-[<img align="left" alt="nisargkavi" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg"/>][instagram]
+[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>][gmail]
+[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
 
 <br />
@@ -52,7 +52,7 @@
 
 
 [youtube]:https://www.youtube.com/technicalnisarg
-[instagram]: https://www.instagram.com/nisarg.official/
+[instagram]: https://www.instagram.com/a_mythical_kid
 [gmail]:kavinisarg@gmail.com
 
 <p align="center">
