@@ -41,7 +41,7 @@
 <br />
 
 
-<img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="480" height="320" />
+<img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrChamp1&theme=radical&layout=compact) -->
 
