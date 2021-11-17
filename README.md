@@ -24,7 +24,7 @@
 
 
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>][gmail]
-[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][youtube]
+[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
 
@@ -55,6 +55,7 @@
 [youtube]:https://www.youtube.com/technicalnisarg
 [instagram]: https://www.instagram.com/a_mythical_kid
 [gmail]:kavinisarg@gmail.com
+[linkedin]:https://www.linkedin.com/in/drchamp1/
 
 <p align="center">
   Made with ❤️ in India
