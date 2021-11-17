@@ -5,7 +5,7 @@
 <h1 align="center">Champ</h1> -->
 
 
-## I'm a Front-End Developer & Tech Guy 
+## I'm a Front-End Dev & Tech Guy !
 - 🔭I'm Currently Working on FiveM Server Development And BCA Student
 - 🌱I'm Currently Learning New Things xD....
 - 👯I'm Looking to Collaborate with Other Developers
