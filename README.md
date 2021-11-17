@@ -1,9 +1,9 @@
 ### Hey There,  I'm Nisarg - aka DrChamp 👋
 <br>
-<p align="center">
+<!-- <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/attachments/795682105153159190/795684479900712980/giphy.gif">
 </p>
-<h1 align="center">Champ</h1>
+<h1 align="center">Champ</h1> -->
 
 
 ## I'm a Developer & Tech Guy 
@@ -24,6 +24,7 @@
 
 
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>][gmail]
+[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][youtube]
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
 
