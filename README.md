@@ -16,7 +16,6 @@
 <img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
 <br />
-<br />
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=drchamp1&show_icons=true&hide_title=true&count_private=true" />	
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drchamp1" />	
