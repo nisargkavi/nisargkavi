@@ -1,4 +1,4 @@
-### Hey There,  I'm Nisarg - aka DrChamp 👋
+### Hey There,  I'm Nisarg - aka [DrChamp][website]👋
 <!-- <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/attachments/795682105153159190/795684479900712980/giphy.gif">
 </p>
@@ -45,6 +45,7 @@
 [instagram]: https://www.instagram.com/a_mythical_kid
 [gmail]:kavinisarg@gmail.com
 [linkedin]:https://www.linkedin.com/in/drchamp1/
+[website]:https://drchamp1.ml/
 
 <p align="center">
   Made with ❤️ in India
