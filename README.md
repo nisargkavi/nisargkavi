@@ -41,8 +41,7 @@
 <br />
 <br />
 
-  <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drchamp1&show_icons=true&include_all_commits=true"  />
-  <img align="center" alt="Champ's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drchamp1&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=drchamp1&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drchamp1" />	
 
 <img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
