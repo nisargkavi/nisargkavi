@@ -9,9 +9,9 @@
 - 🔭I'm Currently Working on FiveM Server Development And BCA Student
 - 🌱I'm Currently Learning New Things xD....
 - 👯I'm Looking to Collaborate with Other Developers
-- 🥅2021 Goals : Be The Good Developer And Good Human Being.
+- 🥅2022 Goals : Be The Good Developer And Good Human Being.
 - 📫 Please email via kavinisarg@gmail.com to reach me.
-- ⚡Fun Fact : I Love Music
+- ⚡Fun Fact : I Love Music xD...
 
 <img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
