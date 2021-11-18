@@ -13,11 +13,7 @@
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music
 
-
-
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ehurqtcvxk9x5yml2c1tpq2oj?) -->
+<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
 ### Connect with me:
 
@@ -33,7 +29,6 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=drchamp1&show_icons=true&hide_title=true&count_private=true" />	
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drchamp1" />	
 
-<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrChamp1&theme=radical&layout=compact) -->
 
