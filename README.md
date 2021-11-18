@@ -15,14 +15,6 @@
 
 <img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
 
-### Connect with me:
-
-
-[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>][gmail]
-[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
-[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
-
 <br />
 <br />
 
@@ -33,7 +25,13 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrChamp1&theme=radical&layout=compact) -->
 
 
+### Connect with me:
 
+
+[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>][gmail]
+[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
+[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
 
 [youtube]:https://www.youtube.com/technicalnisarg
 [instagram]: https://www.instagram.com/a_mythical_kid
