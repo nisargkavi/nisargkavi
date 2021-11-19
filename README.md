@@ -32,6 +32,10 @@
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
 [<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=uNwinD-Development">
+</a>
+
 [youtube]:https://www.youtube.com/technicalnisarg
 [instagram]: https://www.instagram.com/a_mythical_kid
 [gmail]:kavinisarg@gmail.com
