@@ -13,7 +13,7 @@
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music xD...
 
-<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="420" height="320" />
+<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="320" height="220" />
 
 <br />
 
