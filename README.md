@@ -1,6 +1,6 @@
 ### Hey There,  I'm Nisarg - aka [DrChamp][website]👋
 
-<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="320" height="220" />
+<!-- <img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="320" height="220" /> -->
 
 ## 🙋‍♂️ About Me
 ### I'm a Front-End Dev & Tech Guy !
