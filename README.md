@@ -1,8 +1,6 @@
 ### Hey There,  I'm Nisarg - aka [DrChamp][website]👋
-<!-- <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/attachments/795682105153159190/795684479900712980/giphy.gif">
-</p>
-<h1 align="center">Champ</h1> -->
+
+<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="320" height="220" />
 
 ## 🙋‍♂️ About Me
 ### I'm a Front-End Dev & Tech Guy !
@@ -12,8 +10,6 @@
 - 🥅2022 Goals : Be The Good Developer And Good Human Being.
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music xD...
-
-<img align="center" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="320" height="220" />
 
 <br />
 
