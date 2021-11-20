@@ -7,7 +7,6 @@
 - 🔭I'm Currently Working on FiveM Server Development And BCA Student
 - 🌱I'm Currently Learning New Things xD....
 - 👯I'm Looking to Collaborate with Other Developers
-- 🥅2022 Goals : Be The Good Developer And Good Human Being.
 - 📫 Please email via kavinisarg@gmail.com to reach me.
 - ⚡Fun Fact : I Love Music xD...
 
