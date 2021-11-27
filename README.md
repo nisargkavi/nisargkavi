@@ -14,9 +14,6 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=drchamp1&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drchamp1" />	
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrChamp1&theme=radical&layout=compact) -->
-
-
 ### Connect with me:
 
 
