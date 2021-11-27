@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 ### I'm a Front-End Dev & Tech Guy !
-- 🔭I'm Currently Working on FiveM Server Development And BCA Student
+- 🔭I'm Currently Doing BCA 2nd Year
 - 🌱I'm Currently Learning New Things xD....
 - 👯I'm Looking to Collaborate with Other Developers
 - 📫 Please email via kavinisarg@gmail.com to reach me.
