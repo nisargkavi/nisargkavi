@@ -15,7 +15,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="cpp" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="lua" width="26px" src="https://i.ibb.co/FD1vvT2/lua.png"/>
+<img align="left" alt="lua" width="30px" src="https://i.ibb.co/FD1vvT2/lua.png"/>
 
 
 <br />
