@@ -39,8 +39,3 @@
 [linkedin]:https://www.linkedin.com/in/drchamp1/
 [website]:https://drchamp1.ml/
 
-<br>
-
-<p align="center">
-  Made with ❤️ in India
-</p>
