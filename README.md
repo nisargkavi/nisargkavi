@@ -41,5 +41,5 @@
 [instagram]: https://www.instagram.com/a_mythical_kid
 [gmail]:kavinisarg@gmail.com
 [linkedin]:https://www.linkedin.com/in/drchamp1/
-[website]:https://drchamp1.ml/
+[website]:https://nisargkavi.in/
 
