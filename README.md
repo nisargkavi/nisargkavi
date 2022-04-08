@@ -21,7 +21,7 @@
 <br />
 <br />
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=drchamp1&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drchamp1" />	
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=nisargkavi&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisargkavi" />	
 
 
 ### Connect with me:
