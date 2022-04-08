@@ -26,10 +26,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>][gmail]
+[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png"/>][gmail]
 [<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png"/>][instagram]
-[<img align="left" alt="nisargkavi" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"/>][youtube]
+[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/cute-clipart/512/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="nisargkavi" width="22px" src="https://img.icons8.com/fluency/240/000000/youtube-play.png"/>][youtube]
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
