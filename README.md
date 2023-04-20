@@ -1,6 +1,6 @@
 <!-- ### Hey There,  I'm Nisarg - aka [DrChamp][website]👋 -->
 
-![Web 1920 – 1](https://nisargkavi.in/assets/gif/nisargkavi.gif)(http://nisargkavi.in/)
+![Web 1920 – 1](https://nisargkavi.in/assets/gif/nisargkavi.gif)
 
 ### Languages Known:
 
