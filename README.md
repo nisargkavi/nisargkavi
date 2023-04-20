@@ -1,11 +1,6 @@
-![Web 1920 – 1](https://nisargkavi.in/assets/gif/nisargkavi.gif)[website]
+<!-- ### Hey There,  I'm Nisarg - aka [DrChamp][website]👋 -->
 
-## 🙋‍♂️ About Me
-### I'm a Front-End Dev & Tech Guy !
-- 🔭I'm Currently Doing BCA 2nd Year
-- 🌱I'm Currently Learning New Things xD....
-- 👯I'm Looking to Collaborate with Other Developers
-- ⚡Fun Fact : I Love Music xD...
+![Web 1920 – 1](<img src="[https://nisargkavi.in/assets/gif/nisargkavi.gif]">)(http://nisargkavi.in/)
 
 ### Languages Known:
 
