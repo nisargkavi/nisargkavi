@@ -1,6 +1,4 @@
-### Hey There,  I'm Nisarg - aka [DrChamp][website]👋
-
-![Web 1920 – 1](https://nisargkavi.in/assets/gif/nisargkavi.gif)
+![Web 1920 – 1](https://nisargkavi.in/assets/gif/nisargkavi.gif)[website]
 
 ## 🙋‍♂️ About Me
 ### I'm a Front-End Dev & Tech Guy !
