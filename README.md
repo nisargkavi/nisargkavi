@@ -4,22 +4,14 @@
 [<img align="center" alt="nisargkavi-gif" width="100%" src="https://nisargkavi.in/assets/gif/nisargkavi.gif"/>][website]
 
 
-
-### Connect with me:
-[<img align="center" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png"/>][gmail]
-[<img align="center" alt="nisargkavi" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="center" alt="nisargkavi" width="22px" src="https://img.icons8.com/cute-clipart/512/000000/instagram-new.png"/>][instagram]
-[<img align="center" alt="nisargkavi" width="22px" src="https://img.icons8.com/fluency/240/000000/youtube-play.png"/>][youtube]
-
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=drchamp1">
-</a>
+<p align="center">
+  <b>A software engineer who loves building products.</b><br> <br>
+  <a href="https://www.linkedin.com/in/nisargkavi/" target="_blank">LinkedIn</a> |
+  <a href="https://nisargkavi.in/" target="_blank">Portfolio</a> |
+  <a href="https://www.youtube.com/@nisargkavi" target="_blank">Youtube</a> |
+  <br><br>
+</p>
 
 
-[youtube]:https://www.youtube.com/technicalnisarg
-[instagram]: https://www.instagram.com/a_mythical_kid
-[gmail]:kavinisarg@gmail.com
-[linkedin]:https://www.linkedin.com/in/drchamp1/
 [website]:https://nisargkavi.in/
 
