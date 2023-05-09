@@ -1,7 +1,7 @@
 <!-- ### Hey There,  I'm Nisarg - aka [DrChamp][website]👋 -->
 
 <!-- ![Web 1920 – 1](https://nisargkavi.in/assets/gif/nisargkavi.gif) -->
-[<img align="center" alt="nisargkavi-gif" width="100%" src="https://nisargkavi.in/assets/gif/nisargkavi.gif"/>][website]
+[<img align="center" alt="nisargkavi-gif" width="100%" src="https://nisargkavi.in/gif/nisargkavi.gif"/>][website]
 
 <br>
 <p align="center">
